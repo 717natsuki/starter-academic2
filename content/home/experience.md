@@ -47,8 +47,8 @@ experience:
     company: AdGlobal360 India Pvt. Ltd
     company_url: 'https://www.adglobal360.com/'
     location: India
-    date_start: '2018-02'
-    date_end: '2018-03'
+    date_start: '2018-02-01'
+    date_end: '2018-03-01'
     description: 
         - Kotlinを用いたAndroidアプリの開発
         - Google Analyticsによりアプリの解析
