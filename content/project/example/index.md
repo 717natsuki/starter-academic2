@@ -3,8 +3,8 @@ slides: example
 url_pdf: ""
 summary: 個人で開発、運営しているアプリケーション
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: https://apps.apple.com/jp/app/%E3%82%AC%E3%82%AF%E3%83%81%E3%83%A3-%E5%AD%A6%E7%94%9F%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/id1544012914
+date: 2016-04-27T00:00:00.000Z
+external_link: " "
 url_slides: ""
 title: 学生限定コミュニティアプリ「ガクチャ 」
 tags:
