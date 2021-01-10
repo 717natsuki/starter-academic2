@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://www.newsweekjapan.jp/press_release/2020/01/000000013000044738.php
 image:
-  filename: feature.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
