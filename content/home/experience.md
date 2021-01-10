@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Application Engineer / Marketing
+    company: AdGlobal360 India Pvt. Ltd
+    company_url: 'https://www.adglobal360.com/'
+    location: India
+    date_start: '2018-02-01'
+    date_end: '2018-03-01'
+    description: |2-
+        
+        * Kotlinを用いたAndroidアプリの開発
+        * Google Analyticsによりアプリの解析
+        
   - title: CEO
     company: GenCoin!
     company_url: ''
@@ -43,14 +55,5 @@ experience:
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Application Engineer / Marketing
-    company: AdGlobal360 India Pvt. Ltd
-    company_url: 'https://www.adglobal360.com/'
-    location: India
-    date_start: '2018-02-01'
-    date_end: '2018-03-01'
-    description: |2-
-        
-        * Kotlinを用いたAndroidアプリの開発
-        * Google Analyticsによりアプリの解析
+
 ---
