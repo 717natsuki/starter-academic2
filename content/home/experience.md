@@ -42,4 +42,14 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Application Engineer / Marketing
+    company: AdGlobal360 India Pvt. Ltd
+    company_url: 'https://www.adglobal360.com/'
+    location: India
+    date_start: '2018-02'
+    date_end: '2018-03'
+    description: 
+        - Kotlinを用いたAndroidアプリの開発
+        - Google Analyticsによりアプリの解析
 ---
