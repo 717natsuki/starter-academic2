@@ -1,12 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-summary: 個人で開発、運営しているアプリケーション
+title: 学生限定コミュニティアプリ「ガクチャ 」
+summary: ""
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: " "
 url_slides: ""
-title: 学生限定コミュニティアプリ「ガクチャ 」
+subtitle: 個人で開発、運営しているアプリケーション
 tags:
   - App
 links:
