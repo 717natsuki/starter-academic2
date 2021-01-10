@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 title: 学生限定コミュニティアプリ「ガクチャ 」
 summary: ""
