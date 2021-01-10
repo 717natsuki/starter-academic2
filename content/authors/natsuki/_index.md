@@ -9,6 +9,8 @@ interests:
   - Artificial Intelligence
   - Computer Science
 social: []
+organizations:
+  - name: Waseda University
 education:
   courses:
     - institution: Waseda University
