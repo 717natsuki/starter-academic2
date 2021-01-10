@@ -3,8 +3,16 @@ title: Natsuki Kataoka
 role: iOS/Android/API Engineer
 avatar_filename: avatar
 social: []
-organizations: []
-superuser: false
+organizations:
+  - name: Waseda University
+education:
+  courses:
+    - institution: Waseda University
+      year: 2015
+      course: Department of Mechanical Engineering, School of Creative Science and
+        Engineering
+email: natsuki.kataoka.2000@gmail.com
+superuser: true
 ---
 早稲田大学創造理工学部総合機械工学科在籍
 
