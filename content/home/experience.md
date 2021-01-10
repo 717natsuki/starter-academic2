@@ -34,6 +34,24 @@ experience:
         * Kotlinを用いたAndroidアプリの開発
         * Google Analyticsによりアプリの解析
         
+  - title: Techpreneur DOJO
+    company: AdGlobal360 India Pvt. Ltd
+    company_url: 'http://techpreneur.jp/'
+    location: Ebisu
+    date_start: '2019-07-01'
+    date_end: '2019-09-01'
+    description: |2-
+        
+        * Dockerによりアプリケーションのコンテナ運営
+        * Djangoによる新規アプリケーション「シャッフル」の開発
+        * レコメンド最適化
+        * リアルタイムレーティング最適化
+        * ヒートマップ分析
+        * 行動予測型自動A/Bテスト
+        * SNS上の反響分析
+        * アンバサダー分析
+        * ライフサイクル性を考慮した購入・売却プランニング最適化
+        
   - title: CEO
     company: GenCoin!
     company_url: ''
