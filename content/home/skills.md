@@ -16,18 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: アプリ開発が大好きです。アイディアを考えるところから実装して運営するまでを日々体験しています。
+  icon: code
+  icon_pack: fas
+  name: programming
+  
+- description: 小学校３年生から高校受験までインドニューデリーのアメリカ大使館学校で勉強していましたので英語はネイティブ並です。
+  icon: language
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: English
+
+- description: 普段からヒッチハイクやサバイバルチャレンジといった究極の状況を味わっています。
+  icon: campground
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: ヒッチハイク・サバイバル
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
