@@ -52,18 +52,35 @@ experience:
         * アンバサダー分析
         * ライフサイクル性を考慮した購入・売却プランニング最適化
         
-  - title: CEO
-    company: GenCoin!
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: 早稲田大学コンピュータ研究会・WINC 幹事長
+    company: 早稲田大学コンピュータ研究会・WINC
+    company_url: 'https://www.winc.ne.jp/'
+    location: Waseda
+    date_start: '2019-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Accomplished:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * 入会当初3人のサークルから現在100人超の日本一規模の大きいコンピュータサークルに成長
+        * アプリ開発部門、データサイエンス部門、デザイン部門、セキュリティ部門、ハロプロ部門の開設
+        * 合計20大学の学生に参加
+        * 情報関連の教授や専門家などに講演
+        * 副幹事長、会計、部門長などの役職を作成
+        * サークルの運営するARアプリの開発と運営
+        
+        
+  - title: API Engineer
+    company: Stockforce
+    company_url: 'https://stockforce.jp/'
+    location: Shinjuku
+    date_start: '2020-06-01'
+    date_end: ''
+    description: |2-
+    
+        * golangとclean architectureを用いたapi開発
+        * ruby on railsのfat controllerのリファクタ
+        * dddやclean architectureの実装
+        * awsのload balancer、s3、ec2などを用いたインフラの実装
         
         
   - title: CEO
