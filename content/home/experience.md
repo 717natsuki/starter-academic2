@@ -49,9 +49,6 @@ experience:
     location: India
     date_start: '2018-02-01'
     date_end: '2018-03-01'
-    description: 
-        * Kotlinを用いたAndroidアプリの開発
-        * Google Analyticsによりアプリの解析
     description: |2-
         
         * Kotlinを用いたAndroidアプリの開発
