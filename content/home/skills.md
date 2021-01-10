@@ -23,7 +23,7 @@ feature:
   
 - description: 小学校３年生から高校受験までインドニューデリーのアメリカ大使館学校で勉強していましたので英語はネイティブ並です。
   icon: globe
-  icon_pack: fab
+  icon_pack: fas
   name: English
 
 - description: 普段からヒッチハイクやサバイバルチャレンジといった究極の状況を味わっています。
