@@ -104,4 +104,17 @@ experience:
         * dockを利用した年齢認証や身分証明の実装、add searchによるfirestoreの検索
         * 新規アプリ「Andu」の開発
 
+  - title: iOS/Android Engineer
+    company: 個人開発アプリケーション
+    company_url: ''
+    location: Tokyo
+    date_start: '2020-12-01'
+    date_end: ''
+    description: |2-
+    
+        * App Store / Google Play Storeでのリリース
+        * 開発開始から4週間で利用者1000人達成した学生限定コミュニティアプリケーション「ガクチャ」
+        * App Store SNSランキング134位
+        * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
+        * 開発から運営まで全て一人で行っている
 ---
