@@ -83,26 +83,25 @@ experience:
         * awsのload balancer、s3、ec2などを用いたインフラの実装
         
         
-  - title: CEO
-    company: GenCoin!
+  - title: Scholarship recipient for the Silicon Valley Scholarship
+    company: Pegasus Tech Ventures
+    company_url: 'https://ja.pegasustechventures.com/'
+    location: Silicon Valley
+    date_start: '2019-12-01'
+    date_end: '2019-12-02'
+    description: CVC4.0型ファンドの先駆者である米国ペガサス・テック・ベンチャーズ主催のシリコンバレー スカラーシップに奨学生として選出
+    
+  - title: iOS/Android Engineer
+    company: Wynn
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: 
+    date_start: '2020-11-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    
+        * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
+        * revenue catやcloud functionsによりiapの実装
+        * dockを利用した年齢認証や身分証明の実装、add searchによるfirestoreの検索
+        * 新規アプリ「Andu」の開発
 
 ---
