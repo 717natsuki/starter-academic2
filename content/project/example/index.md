@@ -2,7 +2,7 @@
 slides: null
 url_pdf: ""
 title: 学生限定コミュニティアプリ「ガクチャ 」
-summary: ""
+summary: 個人で開発、運営しているアプリケーション
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://admiring-colden-b3546d.netlify.app/project/example/
