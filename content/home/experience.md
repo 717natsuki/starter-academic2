@@ -52,4 +52,8 @@ experience:
     description: 
         * Kotlinを用いたAndroidアプリの開発
         * Google Analyticsによりアプリの解析
+    description: |2-
+        
+        * Kotlinを用いたAndroidアプリの開発
+        * Google Analyticsによりアプリの解析
 ---
