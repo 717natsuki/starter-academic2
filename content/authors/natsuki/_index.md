@@ -1,6 +1,6 @@
 ---
 title: Natsuki Kataoka
-role: author
+role: about
 avatar_filename: avatar
 bio: ""
 interests:
