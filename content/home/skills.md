@@ -22,7 +22,7 @@ feature:
   name: programming
   
 - description: 小学校３年生から高校受験までインドニューデリーのアメリカ大使館学校で勉強していましたので英語はネイティブ並です。
-  icon: language
+  icon: globe-americas
   icon_pack: fab
   name: English
 
