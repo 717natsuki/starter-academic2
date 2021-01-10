@@ -27,15 +27,15 @@ experience:
     company: AdGlobal360 India Pvt. Ltd
     company_url: 'https://www.adglobal360.com/'
     location: India
-    date_start: '2018-02-01'
-    date_end: '2018-03-01'
+    date_start: '2019-02-01'
+    date_end: '2019-03-01'
     description: |2-
         
         * Kotlinを用いたAndroidアプリの開発
         * Google Analyticsによりアプリの解析
         
-  - title: Techpreneur DOJO
-    company: AdGlobal360 India Pvt. Ltd
+  - title: Techpreneur
+    company: Techpreneur Ltd
     company_url: 'http://techpreneur.jp/'
     location: Ebisu
     date_start: '2019-07-01'
@@ -51,6 +51,20 @@ experience:
         * SNS上の反響分析
         * アンバサダー分析
         * ライフサイクル性を考慮した購入・売却プランニング最適化
+        
+  - title: CEO
+    company: GenCoin!
+    company_url: ''
+    location: California
+    date_start: '2017-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
         
   - title: CEO
     company: GenCoin!
