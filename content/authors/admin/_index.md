@@ -2,9 +2,25 @@
 title: Natsuki Kataoka
 role: iOS/Android/API Engineer
 avatar_filename: avatar
-social: []
+social:
+  - display:
+      header: true
+    link: https://github.com/717natsuki
+    icon_pack: fab
+    icon: github
+  - display:
+      header: true
+    icon: graduation-cap
+    icon_pack: fas
+    link: https://www.waseda.jp/
+  - display:
+      header: true
+    icon_pack: fas
+    icon: envelope
+    link: mailto:natsuki.kataoka.2000@gmail.com
 organizations:
   - name: Waseda University
+    url: https://www.waseda.jp/
 education:
   courses:
     - institution: Waseda University
