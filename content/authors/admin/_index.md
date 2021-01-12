@@ -24,7 +24,7 @@ organizations:
 education:
   courses:
     - institution: Waseda University
-      year: 2015
+      year: 2018
       course: Department of Mechanical Engineering, School of Creative Science and
         Engineering
 email: natsuki.kataoka.2000@gmail.com
