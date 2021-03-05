@@ -113,7 +113,7 @@ experience:
     description: |2-
     
         * App Store / Google Play Storeでのリリース
-        * 開発開始から4週間で利用者1000人達成した学生限定コミュニティアプリケーション「ガクチャ」
+        * 利用者5500人達成した学生限定コミュニティアプリケーション「ガクチャ」
         * App Store SNSランキング134位
         * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
