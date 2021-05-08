@@ -52,4 +52,4 @@ In the spring of his sophomore year, I started working at Forstart Inc. as a web
 
 I am self-taught in programming and has personally managing more than 10 iOS/Android apps, including the community app "Gakucha", which has been in development since December 2020 and has been installed by thousands of users in 3 weeks.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "https://resume.io/r/QyNQ9PuzP" "newtab" >}}resumé{{< /staticref >}} を表示.
+{{< icon name="copy" pack="fas" >}} {{< staticref "https://resume.io/r/QyNQ9PuzP" "newtab" >}}resumé{{< /staticref >}} を表示.
