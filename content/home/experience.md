@@ -117,4 +117,16 @@ experience:
         * App Store SNSランキング134位
         * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
+
+  - title: Suishow株式会社 代表取締役兼社長
+    company: 仮想世界のECを構築するためにMetaverse x Blockchain関連の会社を起業
+    company_url: ''
+    location: Tokyo
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+    
+        * 資金調達完了
+       
+
 ---
