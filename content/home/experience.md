@@ -119,7 +119,7 @@ experience:
         * 開発から運営まで全て一人で行っている
 
   - title: Suishow株式会社 代表取締役兼社長
-    company: 仮想世界のECを構築するためにMetaverse x Blockchain関連の会社を起業
+    company: 仮想世界のECをブロックチェーンベースで構築
     company_url: ''
     location: Tokyo
     date_start: '2021-04-01'
@@ -127,6 +127,5 @@ experience:
     description: |2-
     
         * 資金調達完了
-       
-
+        * 現在(2021年5月)は登記申請中
 ---
