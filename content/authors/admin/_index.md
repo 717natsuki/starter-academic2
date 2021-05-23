@@ -1,5 +1,5 @@
 ---
-title: Natsuki Kataoka
+title: 片岡夏輝(Natsuki Kataoka)
 role: iOS/Android/API Engineer
 avatar_filename: avatar
 social:
