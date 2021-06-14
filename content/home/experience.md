@@ -126,6 +126,5 @@ experience:
     date_end: ''
     description: |2-
     
-        * 資金調達完了
-        * メンバー6人
+        * メンバー9人
 ---
