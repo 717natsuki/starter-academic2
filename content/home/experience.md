@@ -105,7 +105,7 @@ experience:
         * 新規アプリ「Andu」の開発
 
   - title: iOS/Android Engineer
-    company: 2万人のSNSを趣味で開発
+    company: 4万人のSNSを趣味で開発
     company_url: ''
     location: Tokyo
     date_start: '2020-12-01'
@@ -113,8 +113,8 @@ experience:
     description: |2-
     
         * App Store / Google Play Storeでのリリース
-        * ユーザー数 21,000人
-        * App Store SNSランキング134位
+        * ユーザー数 40,000人
+        * App Store SNSランキング60位
         * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
 
