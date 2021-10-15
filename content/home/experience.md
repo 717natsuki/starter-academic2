@@ -118,9 +118,9 @@ experience:
         * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
 
-  - title: Suishow株式会社 代表取締役兼社長
-    company: 世界初の仮想世界のECをブロックチェーンベースで構築
-    company_url: ''
+  - title: Suishow株式会社 代表取締役社長
+    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発
+    company_url: 'company.suishow.net'
     location: Tokyo
     date_start: '2021-04-01'
     date_end: ''
