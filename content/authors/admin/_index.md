@@ -60,4 +60,4 @@ I am stilldeveloping and managing it alone as a hobby.
 
 These are my three major goals.
 
-{{< icon name="copy" pack="fas" >}} {{< staticref "https://resume.io/r/QyNQ9PuzP" "newtab" >}}resumé{{< /staticref >}} を表示.
+<!-- {{< icon name="copy" pack="fas" >}} {{< staticref "https://resume.io/r/QyNQ9PuzP" "newtab" >}}resumé{{< /staticref >}} を表示. -->
