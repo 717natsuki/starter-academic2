@@ -119,12 +119,14 @@ experience:
         * 開発から運営まで全て一人で行っている
 
   - title: Suishow株式会社 代表取締役社長
-    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発。メタバースの「Amazon.com」を目指しています。
+    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発。
     company_url: 'corp.suishow.net'
     location: Tokyo
     date_start: '2021-04-01'
     date_end: ''
     description: |2-
     
-        * メンバー9人
+        * メタバースの「Amazon.com」を目指しています。
+        * 社員数10人（業務委託を含む）
+        * MetaMartの開発
 ---
