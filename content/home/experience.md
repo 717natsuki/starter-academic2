@@ -113,14 +113,14 @@ experience:
     description: |2-
     
         * App Store / Google Play Storeでのリリース
-        * ユーザー数 40,000人
+        * ダウンロード数 100,000人
         * App Store SNSランキング60位
-        * flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
+        * Flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
 
   - title: Suishow株式会社 代表取締役社長
-    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発
-    company_url: 'company.suishow.net'
+    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発。メタバースの「Amazon.com」を目指しています。
+    company_url: 'corp.suishow.net'
     location: Tokyo
     date_start: '2021-04-01'
     date_end: ''
