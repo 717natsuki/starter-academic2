@@ -105,8 +105,8 @@ experience:
         * 新規アプリ「Andu」の開発
 
   - title: iOS/Android Engineer
-    company: 4万人のSNSを趣味で開発
-    company_url: ''
+    company: 10万ダウンロードのSNSを個人開発
+    company_url: 'https://apps.apple.com/jp/app/%E3%82%AC%E3%82%AF%E3%83%81%E3%83%A3-%E5%AD%A6%E7%94%9F%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/id1544012914'
     location: Tokyo
     date_start: '2020-12-01'
     date_end: ''
