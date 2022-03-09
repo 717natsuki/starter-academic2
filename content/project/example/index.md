@@ -1,61 +1,11 @@
 ---
-slides: null
-url_pdf: ""
-title: 学生限定コミュニティアプリ「ガクチャ 」
-summary: 個人で開発、運営しているアプリケーション
-url_video: ""
-date: 2016-04-27T00:00:00.000Z
-external_link: https://admiring-colden-b3546d.netlify.app/project/example/
-url_slides: ""
-subtitle: 個人で開発、運営しているアプリケーション
-tags:
-  - App
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/gaku_cha
+title: 「学生限定SNSガクチャ」〜10万ダウンロード達成〜
+date: 2021-12-10T07:53:00.000Z
+draft: false
+featured: false
+external_link: https://apps.apple.com/jp/app/%E3%82%AC%E3%82%AF%E3%83%81%E3%83%A3-%E5%AD%A6%E7%94%9F%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/id1544012914
 image:
-  caption: ""
+  filename: featured.jpg
   focal_point: Smart
-  filename: first-1-.jpg
   preview_only: false
-url_code: ""
 ---
-個人で開発し、運営している2000人のユーザが利用している開発から2ヶ月目のアプリケーション
-
-App Store: https://apps.apple.com/jp/app/%E3%82%AC%E3%82%AF%E3%83%81%E3%83%A3-%E5%AD%A6%E7%94%9F%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/id1544012914
-
-Twitter: https://twitter.com/gaku_cha/status/1336713461577916416
-
-
-
-■ 学生限定コミュニティアプリ『ガクチャ』？！
-
-どうも運営です！『ガクチャ』とは学生が開発した学生限定のコミュニティアプリです。
-
-学生だったら何も制限なく自由にコミュニティを作れます。
-
-このアプリで心から繋がれる仲間を見つけれることを願ってます。
-
-
-
-■ 主な機能
-
-\- コミュニティ作成：気の合う仲間のグループを作れます。
-
-\- ひまNOW！：現在ひまなユーザが表示されます。
-
-\- 推しメン：他のサービスで言うとフォローと同じです。
-
-
-
-■ 注意事項
-
-※LINEやカカオなど他のサービスの交換は固く禁じられています。
-
-※このアプリを通じて人と会うことは避けてください。
-
-※不適切な投稿や年齢を偽った場合はアプリが使えなくなります。
-
-※小学生以下はご利用いただけません。
