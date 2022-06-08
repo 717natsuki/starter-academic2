@@ -52,7 +52,7 @@ experience:
         * アンバサダー分析
         * ライフサイクル性を考慮した購入・売却プランニング最適化
         
-  - title: 早稲田大学コンピュータ研究会・WINC 幹事長
+  - title: 早稲田大学コンピュータ研究会・WINC 53代目幹事長を歴任
     company: 早稲田大学コンピュータ研究会・WINC
     company_url: 'https://www.winc.ne.jp/'
     location: Waseda
