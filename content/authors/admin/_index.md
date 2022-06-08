@@ -1,6 +1,6 @@
 ---
 title: 片岡夏輝(Natsuki Kataoka)
-role: iOS/Android Engineer + CEO @ Suishow Inc.
+role: Engineer CEO @Suishow Inc.
 avatar_filename: avatar
 social:
   - display:
@@ -36,7 +36,7 @@ superuser: true
 
 大学2年の春から株式会社Forstartでgolangとclean architectureを用いて「RanQ」のWebバックエンド開発職を担当。夏から同時進行で株式会社WynでFlutterを用いて「Andu」のネイティブアプリのフロントエンドとバックエンドを担当しサブスクリプション機能をリード開発。また武蔵野美術大学の学生団体と共同で「Arcle」の開発全般を担当。
 
-プログラミングは独学で勉強していて合計20個以上のアプリを開発した。その中でも2週間で開発した学生限定のSNSアプリ「ガクチャ」は現在 10万ダウンロード達成。
+プログラミングは独学で勉強していて合計20個以上のアプリを開発した。その中でも2週間で開発した学生限定のSNSアプリ「ガクチャ」は現在 15万ダウンロード達成。
 現在も一人で趣味範囲で開発＆運営を行っている。他にもNFTユーザー向けのSNS「Crypties」やぼっち飯同士マッチングアプリ「ぼっち飯」を手掛ける。
 
 またGoogleが開発したクロスプラットフォーム開発のUIフレームワーク、Flutterが好きで、「Flutter Japan」という日本最大のFlutterコミュニティを設立し、代表を務める。現在はFlutterの技術書も執筆中。
