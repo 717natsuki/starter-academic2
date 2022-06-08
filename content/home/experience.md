@@ -105,7 +105,7 @@ experience:
         * 新規アプリ「Andu」の開発
 
   - title: iOS/Android Engineer
-    company: 10万ダウンロードのSNSを個人開発
+    company: 15万ダウンロードのSNSを個人開発
     company_url: 'https://apps.apple.com/jp/app/%E3%82%AC%E3%82%AF%E3%83%81%E3%83%A3-%E5%AD%A6%E7%94%9F%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/id1544012914'
     location: Tokyo
     date_start: '2020-12-01'
@@ -113,20 +113,23 @@ experience:
     description: |2-
     
         * App Store / Google Play Storeでのリリース
-        * ダウンロード数 100,000人
+        * ダウンロード数 150,000人
         * App Store SNSランキング60位
         * Flutterのproviderやstreamを用いたstatelessなアプリケーションの開発
         * 開発から運営まで全て一人で行っている
 
   - title: Suishow株式会社 代表取締役社長
-    company: 世界初の3Dアイテムに特化したNFTマーケットプレイスの開発。
+    company: メタバースとNFTマーケットプレイスの運営
     company_url: 'corp.suishow.net'
     location: Tokyo
     date_start: '2021-04-01'
     date_end: ''
     description: |2-
     
-        * メタバースの「Amazon.com」を目指しています。
-        * 社員数10人（業務委託を含む）
-        * MetaMartの開発
+        * ブロックチェーンメタバースの開発
+        * 法人向けメタバースの開発
+        * 3Dに特化したNFTマーケットプレイスの運営
+        * 社員数約18人（業務委託を含む）
+        * 資本金（準備金も含む）3500万円
+       
 ---
