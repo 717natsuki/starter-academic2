@@ -5,6 +5,11 @@ avatar_filename: avatar
 social:
   - display:
       header: true
+    link: https://twitter.com/na2uqi
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: true
     link: https://github.com/717natsuki
     icon_pack: fab
     icon: github
