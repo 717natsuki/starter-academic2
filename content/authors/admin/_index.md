@@ -57,19 +57,23 @@ Suishow株式会社代表 / iU大学客員教授
 
 という３つの大きな目標を掲げています。
 
-Enrolled in the School of Creative Science and Engineering at Waseda University
+CEO @Suishow, Inc. / Visiting Professor at iU University
 
-Raised in India as a child. While in high school, I worked as a marketing and programming intern at AdGlobal360 India Pvt. Ltd, a subsidiary of Hakuhodo Inc. in New Delhi, India. During the summer break of my first year of university, I was selected as a finalist for the "Techprenour DOJO", a long-term engineering training project. In the winter of my first year of university, I was selected as a scholarship recipient for the Silicon Valley Scholarship sponsored by Pegasus Tech Ventures, a pioneer in CVC 4.0 type funds. I was the secretary general of the largest programming club in Japan, which is officially recognized by Waseda University.
+Raised in India during childhood. While in high school, completed a marketing internship at AdGlobal360 India Pvt. Ltd, a subsidiary of Hakuhodo Inc. in New Delhi, India. During the internship in India, visited Google India and developed an interest in programming. Passed the final screening of a long-term engineering training project called "Techprenour DOJO" during the summer vacation of the first year of university. Also selected as a scholarship student for the Silicon Valley scholarship sponsored by Pegasus Tech Ventures, a pioneer in CVC 4.0 funds, during the winter of first year of university. Served as the 53rd chairman of the Waseda University-approved computer research club, WINC.
 
-In the spring of my second year of college, I started working at Forstart Inc. as a web backend developer for "RanQ" using golang and clean architecture. I've also been working on the front-end and back-end of the Andu native app at Wyn Inc. using Flutter. I also worked on the overall development of "Arcle" in collaboration with a student group at Musashino Art University.
+From the spring of second year at university, they were responsible for the web backend development of "RanQ" using golang and clean architecture at Forstart Co., Ltd. From the summer, they concurrently led the development of the front-end and back-end of the native app "Andu" using Flutter at Wyn Co., Ltd. and led the development of the subscription function. They also worked on the overall development of "Arcle" in collaboration with a student organization at Musashino Art University.
 
-I am self-taught in programming and have developed more than 20 apps in total. Among them, "Gakucha", a student-only SNS application developed in two weeks, is currently used by 40,000 users.
-I am stilldeveloping and managing it alone as a hobby.
+They studied programming on own and developed more than 20 apps in total. Among them, the student-limited SNS app "Gakucha," which was developed in two weeks, has now achieved 180,000 downloads. They continue to develop and operate apps within their hobby range alone, including the NFT user-oriented SNS "Crypties" and the matching app for solo diners "Bocchi Meshi."
 
-* Using the latest technology to demolish the current values and change them to the common sense of the future.
-* Contribute greatly to the advancement of information technology in the world.
-* We want to create a world where everyone is proactive and enjoys working.
+They also like Flutter, a UI framework for cross-platform development developed by Google, and founded Flutter Japan, the largest Flutter community in Japan, where they currently serve as representative. They are also currently writing a technical book on Flutter.
 
-These are my three major goals.
+As a hobby, they also created a location-based SNS called NauNau, which achieved the top spot in the App Store's free ranking.
 
+Currently, they are the President and CEO of Suishow Co., Ltd., a startup founded by graduates of the University of Tokyo and Waseda University, conducting business in the metaverse and blockchain.
+
+My three major goals are:
+
+* To use the latest technology to break down current values and change them to future norms.
+* To make a significant contribution to the progress of information technology in society.
+* To create a society in which everyone can work happily and proactively.
 <!-- {{< icon name="copy" pack="fas" >}} {{< staticref "https://resume.io/r/QyNQ9PuzP" "newtab" >}}resumé{{< /staticref >}} を表示. -->
