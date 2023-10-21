@@ -48,7 +48,7 @@ Suishow株式会社代表 / iU大学客員教授
 
 またGoogleが開発したクロスプラットフォーム開発のUIフレームワーク、Flutterが好きで、「Flutter Japan」という日本最大のFlutterコミュニティを設立し、代表を務める。現在はFlutterの技術書も執筆中。
 
-趣味で作ったNauNauという位置情報SNSがApp Store 無料ランキング総合1位を獲得して、Suishow株式会社に譲渡。
+NauNauという位置情報SNSがApp Store 無料ランキング総合1位を獲得して、Suishow株式会社に譲渡。
 
 現在は東大＆早稲田発のスタートアップ、Suishow株式会社の代表取締役社長として事業を行なっている。
 
